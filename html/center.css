@@ -1,0 +1,21 @@
+p
+{
+  position: fixed; 
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+  background-color: black;
+  
+}
+.error {
+   background: #F2DEDE;
+   color: #A94442;
+   
+}
+
+.success {
+   background: #D4EDDA;
+   color: #40754C;
+   
+}
